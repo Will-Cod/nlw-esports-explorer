@@ -126,3 +126,9 @@ section ul li:hover{
         transform: translatex(0);
     }
 }
+@media (max-width: 407px){
+    section div{
+    padding-left: 15px;
+    padding-right: 15px;
+    }
+}
